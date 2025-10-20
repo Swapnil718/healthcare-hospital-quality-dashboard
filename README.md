@@ -24,13 +24,16 @@ State & Ownership Comparison
 The goal is to identify top-performing hospitals, observe state disparities, and highlight areas for care improvement, using Python for cleaning and Tableau for visualization.
 
 ---
-##🗂 Project Structure
+## 🗂 Project Structure
 Healthcare-Hospital-Quality-Analytics/
+
 ├─ Tableau/
 │  ├─ healthcare-hospital-quality-dashboard.twb   # Tableau Workbook
 │  ├─ cms_timely_wide_facility_kpis.csv          # Final Tableau dataset
 │  └─ Dashboard SS.png                           # Dashboard screenshot
+
 ├─ Data_Cleaning_and_Merge.ipynb                 # Jupyter notebook (Python)
+
 └─ README.md
 
 ---
@@ -56,11 +59,16 @@ Exported final dataset for Tableau dashboard
 
 ---
 ### 📊 Dashboard Features (Built in Tableau)
-Feature	Description
+Feature	Description:
+
 🏥 Top Hospitals Ranking	Displays best-performing hospitals by KPI
+
 🗺 U.S. State Map	Visualizes statewide hospital quality performance
+
 🎚 Interactive Filters	Filter by State & Hospital Ownership
+
 💬 Smart Tooltips	Shows hospital rating & ownership on hover
+
 ---
 
 ### 💡 Key Insights
