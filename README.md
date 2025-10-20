@@ -81,9 +81,8 @@ Data_Cleaning_and_Merge.ipynb
 
 Step 3 – Open Tableau Dashboard
 
-Open:
+Open: Tableau/healthcare-hospital-quality-dashboard.twb
 
-Tableau/healthcare-hospital-quality-dashboard.twb
 ---
 
 ## 📬 Connect with Me
